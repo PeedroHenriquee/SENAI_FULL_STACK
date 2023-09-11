@@ -1,0 +1,1 @@
+# SENAI_FULL_STACK
